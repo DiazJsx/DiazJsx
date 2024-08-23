@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- ⭐ Desarrollo de software ⭐
+- ⭐ Graduated from a software development degree
 - 💻 Front-end developer
 - 📲 UX/UI Design
 - 🛢 Database developer
