@@ -1,4 +1,4 @@
-![7f55a1959508765ef513884ab75998b7](https://github.com/user-attachments/assets/1a93417f-1de0-4de5-9e23-17ff7b37f07a)<div align="center">
+<div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
 </div>
 <img src="https://i.ibb.co/vBhd8Sr/Diaz-D-Hans.png">
