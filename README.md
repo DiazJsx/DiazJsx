@@ -1,7 +1,7 @@
-<div align="center">
+![7f55a1959508765ef513884ab75998b7](https://github.com/user-attachments/assets/1a93417f-1de0-4de5-9e23-17ff7b37f07a)<div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="file:///C:/Users/HOME/Downloads/Diaz%20D.%20Hans.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
