@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Portafolio Web</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.ibb.co/nm5mmWP/portafolio.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank"><img src="https://i.ibb.co/nm5mmWP/portafolio.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
