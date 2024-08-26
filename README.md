@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Mi CRUD, diseñado y desarrollado en <strong>Visual Studio</strong> para gestionar una base de datos de clientes, me permitió poner en práctica mis habilidades en el manejo de formularios y validación de datos. Utilicé HTML5 para estructurar los formularios y CSS3 para crear un diseño responsivo y atractivo.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
