@@ -31,16 +31,13 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Crud</h3>
+<h3 align="center">Crud Desing</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.ibb.co/PGtc8c7/imagen-2024-08-26-113319177.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/DiazJsx/Crud-Desing" target="_blank"><img src="https://i.ibb.co/PGtc8c7/imagen-2024-08-26-113319177.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/DiazJsx/Crud-Desing" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
