@@ -64,7 +64,7 @@
 <td width="50%">
 <h3 align="center">Abarrotes Desing</h3>
 <div align="center">
-<a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank"><img src="https://i.ibb.co/ygdkxs1/abarrotes.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank"><img src="https://i.ibb.co/YZY6BT2/abaaa.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
