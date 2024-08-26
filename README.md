@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Mi CRUD, diseñado y desarrollado en <strong>Visual Studio</strong> para gestionar una base de datos de clientes, me permitió poner en práctica mis habilidades en el manejo de formularios y validación de datos. Utilicé HTML5 para la estructura y CSS3 para crear un diseño atractivo.</p>
+</p>Mi CRUD, diseñado y desarrollado en <strong>Visual Studio</strong> para gestionar una base de datos de clientes, me permitió poner en práctica mis habilidades en el manejo de formularios y validación de datos. Usé HTML para la estructura y CSS para crear un diseño atractivo.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
