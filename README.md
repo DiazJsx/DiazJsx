@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Mi página web de abarrotes,<strong>diseñada en Figma y desarrollada con HTML y CSS</strong> - se enfoca en ofrecer una experiencia de compra en línea similar a la de una tienda física. </p>
 </div>
                                                                                       
 </td>  
