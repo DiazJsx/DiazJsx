@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Mi proyecto de Login y Register, inspirado en un tutorial y hecho con <strong> Visual Studio </strong> - que me permitió aprender a crear formularios dinámicos con HTML, CSS y JavaScript <strong> y pude personalizar un diseño utilizando la librería Bootstrap para obtener una apariencia moderna y responsiva.</p>
 </div>
                                                                                       
 </td>       
