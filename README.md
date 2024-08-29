@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/aOMYa84.png">
 
 ## Sobre mi
 
