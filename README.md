@@ -35,7 +35,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fes%2Ficono%2Fxampp%2F94513&psig=AOvVaw12kNma1u1URrzt3IRtl23d&ust=1727501255080000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiyj-ex4ogDFQAAAAAdAAAAABAJ" alt="XAMPP" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A2A?logo=xampp&logoColor=white&style=flat" alt="XAMPP" width="40" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
