@@ -12,7 +12,6 @@
 - 📫 How to contact me hansdiazxd@gmail.com
 - ⚡ Fun fact: I'm an introvert
 
-<br>
 ## Conéctate conmigo
 <p align="left">
 <a href="https://www.linkedin.com/in/díaz-d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hans diaz" height="30" width="40" /></a>
