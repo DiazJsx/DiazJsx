@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, I'm <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
 </div>
 
-## Sobre mi
+## About me
 
 - ⭐ Graduated from a software development degree
 - 🌱 I'm currently learning React
