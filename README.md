@@ -5,9 +5,12 @@
 ## Sobre mi
 
 - ⭐ Graduated from a software development degree
+- 🌱 I'm currently learning React
 - 💻 Front-end developer
 - 📲 UX/UI Design
 - 🛢 Database developer
+- 📫 How to contact me hansdiazxd0@gmail.com
+- ⚡ Dato curioso: Soy introvertido
 
 <br>
 <h3 align="left">Conéctate conmigo:</h3>
