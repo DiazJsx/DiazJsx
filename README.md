@@ -56,7 +56,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Portafolio Web</h3>
+<h3 align="center">Web Portfolio</h3>
 <div align="center">
 <a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank"><img src="https://i.ibb.co/nm5mmWP/portafolio.png" width="400" alt="Curso básico android"></a>
 <p>
@@ -88,7 +88,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Inicio de sesión</h3>
+<h3 align="center">Login and Register</h3>
 <div align="center">
 <a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank"><img src="https://i.ibb.co/9ZmnHjP/Iniciosesion.png" width="400" alt="Curso intermedio Android"></a>
 <p>
@@ -102,7 +102,7 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Abarrotes Desing</h3>
+<h3 align="center">Grocery Design</h3>
 <div align="center">
 <a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank"><img src="https://i.ibb.co/YZY6BT2/abaaa.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
