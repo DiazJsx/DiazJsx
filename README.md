@@ -10,7 +10,7 @@
 - 📲 UX/UI Design
 - 🛢 Database developer
 - 📫 How to contact me hansdiazxd@gmail.com
-- ⚡ Dato curioso: Soy introvertido
+- ⚡ Fun fact: I'm an introvert
 
 <br>
 <h3 align="left">Conéctate conmigo:</h3>
