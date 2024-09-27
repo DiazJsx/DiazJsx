@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm an introvert
 
 <br>
-<h3 align="left">Conéctate conmigo:</h3>
+## Conéctate conmigo
 <p align="left">
 <a href="https://www.linkedin.com/in/díaz-d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hans diaz" height="30" width="40" /></a>
 <a href="https://www.instagram.com/diaz_l15.jsx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hans Diaz" height="30" width="40" /></a>
