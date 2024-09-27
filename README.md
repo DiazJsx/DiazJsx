@@ -21,6 +21,24 @@
 
 ## Languages ​​with experience and interest:
 
+- **Frontend**:
+  - HTML5
+  - CSS3 (Sass, Bootstrap)
+  - JavaScript (ES6+)
+  - React.js
+  - Next.js
+
+- **Backend**:
+  - Python
+  - MySQL
+  - XAMPP
+
+- **Diseño**:
+  - Figma
+
+- **Herramientas y otros**:
+  - Git & GitHub
+  - Excel
 
 <br>
 
