@@ -63,8 +63,6 @@
 <p>
 <a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-<a href="https://www.figma.com/design/Kfgu5dMo0jFmujQEeULN2G/5-Comentarios?node-id=0-1&t=sx7xPMLEAZ6ETaZV-1" target="_blank">
-<img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
 
