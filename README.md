@@ -59,13 +59,19 @@
 <td width="50%">
 <h3 align="center">Web Portfolio</h3>
 <div align="center">
-<a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank"><img src="https://i.ibb.co/nm5mmWP/portafolio.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank"><img src="https://i.ibb.co/nm5mmWP/portafolio.png" width="400" alt="Web Portfolio"></a>
 <p>
 <a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+<p>
+<a href="https://www.figma.com/design/Kfgu5dMo0jFmujQEeULN2G/5-Comentarios?node-id=0-1&t=sx7xPMLEAZ6ETaZV-1" target="_blank">
 <img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
+
 <p>Este portafolio web, creado con <strong> Visual Studio</strong> - utilizando HTML, CSS y JavaScript, presenta una muestra de mis habilidades en desarrollo web front-end.</strong> Con un diseño minimalista y una navegación intuitiva, el sitio destaca mis proyectos más recientes.</p>
 </div>
                                                                                       
