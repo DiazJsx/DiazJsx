@@ -143,9 +143,7 @@
 <div align="center">
 <a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank"><img src="https://i.ibb.co/zmhNgrt/13shots-so.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-<a href="https://www.figma.com/design/Kfgu5dMo0jFmujQEeULN2G/5-Comentarios?node-id=0-1&t=sx7xPMLEAZ6ETaZV-1" target="_blank">
+<a href="https://www.figma.com/design/cWeIVOYG7kvFG7e7X7wfyc/Diaz%C2%B4s-Coffee?node-id=0-1&t=43cDIVLSnPXNGe3g-1" target="_blank">
 <img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
