@@ -59,7 +59,7 @@
 <td width="50%">
 <h3 align="center">Web Portfolio</h3>
 <div align="center">
-<a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank"><img src="https://i.ibb.co/nm5mmWP/portafolio.png" width="400" alt="Web Portfolio"></a>
+<a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank"><img src="https://i.ibb.co/rsNqzzS/734-1x-shots-so.png" width="400" alt="Web Portfolio"></a>
 <p>
 <a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
