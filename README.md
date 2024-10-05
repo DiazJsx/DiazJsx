@@ -62,7 +62,7 @@
 <a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank"><img src="https://i.ibb.co/rsNqzzS/734-1x-shots-so.png" width="400" alt="Web Portfolio"></a>
 <p>
 <a href="https://github.com/DiazJsx/Portafolio-Web" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=pink">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 
