@@ -118,6 +118,22 @@
 </div>
                                                                                       
 </td>  
+
+<td width="50%">
+<h3 align="center">Grocery Design</h3>
+<div align="center">
+<a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank"><img src="https://i.ibb.co/jZ6v5Vx/140-1x-shots-so.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://www.figma.com/design/Kfgu5dMo0jFmujQEeULN2G/5-Comentarios?node-id=0-1&t=sx7xPMLEAZ6ETaZV-1" target="_blank">
+<img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
+</a>
+</p>
+<p>Durante mis prácticas, desarrollé una página web para una tienda de abarrotes online utilizando <strong>Visual Studio, Figma, HTML, CSS y JavaScript</strong> - Implementé un carrusel de imágenes en la página principal para destacar los productos más populares y se enfoca en una tienda física. </p>
+</div>
+                                                                                      
+</td>  
 </table>                                                                                 
 </div>
 <br>
