@@ -74,7 +74,7 @@
 <td width="50%">
 <h3 align="center">Crud Desing</h3>
 <div align="center">                                       
-<a href="https://github.com/DiazJsx/Crud-Desing" target="_blank"><img src="https://i.ibb.co/PGtc8c7/imagen-2024-08-26-113319177.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/DiazJsx/Crud-Desing" target="_blank"><img src="https://i.ibb.co/rZTywp7/660-1x-shots-so.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/DiazJsx/Crud-Desing" target="_blank">
