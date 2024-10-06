@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Mi proyecto de Login y Register, inspirado en un tutorial y hecho con <strong> Visual Studio </strong> - que me permitió aprender a crear formularios dinámicos con HTML, CSS y JavaScript y pude personalizar un diseño utilizando la librería Bootstrap para obtener una apariencia moderna y responsiva.</p>
+<p>Mi proyecto de Login y Register, inspirado en un tutorial y hecho con Visual Studio Code, me permitió aprender a crear formularios dinámicos con HTML, CSS y JavaScript. Además, personalicé el diseño utilizando la librería Bootstrap para obtener una apariencia moderna y responsiva</p>
 </div>
                                                                                       
 </td>       
