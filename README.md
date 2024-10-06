@@ -147,7 +147,7 @@
 <img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
-<p>Durante mis prácticas, desarrollé una página web para una tienda de abarrotes online utilizando <strong>Visual Studio, Figma, HTML, CSS y JavaScript</strong> - Implementé un carrusel de imágenes en la página principal para destacar los productos más populares y se enfoca en una tienda física. </p>
+<p>Durante mi tiempo libre, diseñé de forma autónoma una aplicación para una cafetería utilizando Figma. El diseño se enfocó en mostrar de manera simple y atractiva los productos que ofrece la cafetería, como papa rellena, causa rellena y tequeños, destacando la oferta visualmente para facilitar la navegación del usuario.</p>
 </div>
                                                                                       
 </td>  
