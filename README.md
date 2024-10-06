@@ -114,7 +114,7 @@
 <img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
-<p>Durante mis prácticas, desarrollé una página web para una tienda de abarrotes online utilizando <strong>Visual Studio, Figma, HTML, CSS y JavaScript</strong> - Implementé un carrusel de imágenes en la página principal para destacar los productos más populares y se enfoca en una tienda física. </p>
+<p>Durante mis prácticas, desarrollé una página web para una tienda de abarrotes online utilizando Visual Studio, Figma, HTML, CSS y JavaScript. Implementé un carrusel de imágenes en la página principal para destacar los productos más populares, enfocado en una tienda física</p>
 </div>
                                                                                       
 </td>  
