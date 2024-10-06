@@ -66,7 +66,7 @@
 </a>
 </p>
 
-<p>Este portafolio web, creado con <strong> Visual Studio</strong> - utilizando HTML, CSS y JavaScript, presenta una muestra de mis habilidades en desarrollo web front-end.</strong> Con un diseño minimalista y una navegación intuitiva, el sitio destaca mis proyectos más recientes.</p>
+<p>Este portafolio web, creado con Visual Studio utilizando HTML, CSS y JavaScript, presenta una muestra de mis habilidades en desarrollo web front-end. Con un diseño minimalista y una navegación intuitiva, el sitio destaca mis proyectos más recientes</p>
 </div>
                                                                                       
 </td>
