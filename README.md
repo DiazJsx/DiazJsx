@@ -66,7 +66,7 @@
 </a>
 </p>
 
-<p>Este portafolio web, creado con Visual Studio utilizando HTML, CSS y JavaScript, presenta una muestra de mis habilidades en desarrollo web front-end. Con un diseño minimalista y una navegación intuitiva, el sitio destaca mis proyectos más recientes</p>
+<p>Este portafolio web, creado con Visual Studio utilizando HTML, CSS y JavaScript, presenta una muestra de mis habilidades en desarrollo web front-end. Con un diseño minimalista y una navegación intuitiva, el sitio destaca mis proyectos más recientes.</p>
 </div>
                                                                                       
 </td>
@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Mi CRUD, diseñado y desarrollado en <strong>Visual Studio</strong> para gestionar una base de datos de clientes, me permitió poner en práctica mis habilidades en el manejo de formularios y validación de datos. Usé HTML para la estructura y CSS para crear un diseño atractivo.</p>
+</p>Mi CRUD, diseñado y desarrollado en Visual Studio para gestionar una base de datos de clientes, me permitió poner en práctica mis habilidades en el manejo de formularios y la validación de datos. Utilicé HTML para la estructura y CSS para crear un diseño atractivo.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Mi proyecto de Login y Register, inspirado en un tutorial y hecho con Visual Studio Code, me permitió aprender a crear formularios dinámicos con HTML, CSS y JavaScript. Además, personalicé el diseño utilizando la librería Bootstrap para obtener una apariencia moderna y responsiva</p>
+<p>Mi proyecto de Login y Register, inspirado en un tutorial y hecho con Visual Studio Code, me permitió aprender a crear formularios dinámicos con HTML, CSS y JavaScript. Además, personalicé el diseño utilizando la librería Bootstrap para obtener una apariencia moderna y responsiva.</p>
 </div>
                                                                                       
 </td>       
@@ -114,7 +114,7 @@
 <img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
-<p>Durante mis prácticas, desarrollé una página web para una tienda de abarrotes online utilizando Visual Studio, Figma, HTML, CSS y JavaScript. Implementé un carrusel de imágenes en la página principal para destacar los productos más populares, enfocado en una tienda física</p>
+<p>Durante mis prácticas, desarrollé una página web para una tienda de abarrotes online utilizando Visual Studio, Figma, HTML, CSS y JavaScript. Implementé un carrusel de imágenes en la página principal para destacar los productos más populares, enfocado en una tienda física.</p>
 </div>
                                                                                       
 </td>  
