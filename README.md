@@ -8,7 +8,6 @@
 - 🌱 I'm currently learning React
 - 💻 Front-end developer
 - 📲 UX/UI Design
-- 🛢 Database developer
 - 📫 How to contact me hansdiazxd@gmail.com
 - ⚡ Fun fact: I'm an introvert
 
