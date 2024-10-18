@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
-</p>Durante mis fines de semana, diseñé de forma autónoma una aplicación para Instagram utilizando Figma. Me enfoqué en crear un diseño moderno y minimalista, destacando publicaciones, historias y funciones esenciales para asegurar una navegación intuitiva y atractiva. Este proyecto refleja mi pasión por el diseño UI/UX y la mejora de experiencias digitales.</p>
+</p>Durante mis fines de semana, diseñé de forma autónoma un clon de Instagram en Figma. El enfoque fue crear un diseño minimalista y funcional, resaltando publicaciones, historias y mensajes. Busqué ofrecer una experiencia intuitiva y atractiva para el usuario.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
