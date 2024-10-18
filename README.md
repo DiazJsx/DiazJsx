@@ -71,7 +71,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Crud Desing</h3>
+<h3 align="center">instagram clone design</h3>
 <div align="center">                                       
 <a href="https://github.com/DiazJsx/Crud-Desing" target="_blank"><img src="https://i.ibb.co/rZTywp7/660-1x-shots-so.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
