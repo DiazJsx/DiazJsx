@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
-</p>Durante mis fines de semana, diseñé de forma autónoma un clon de Instagram en Figma. El enfoque fue crear un diseño minimalista y funcional, resaltando publicaciones, historias y mensajes. Busqué ofrecer una experiencia intuitiva y atractiva para el usuario.</p>
+</p>Durante mis fines de semana, diseñé de forma autónoma un clon de Instagram en Figma. El enfoque fue crear un diseño minimalista y atractivo, resaltando publicaciones, historias y mensajes. Busqué ofrecer una experiencia intuitiva y atractiva para el usuario.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
