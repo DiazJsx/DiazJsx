@@ -140,7 +140,7 @@
 <td width="50%">
 <h3 align="center">Design Diaz's Coffee</h3>
 <div align="center">
-<a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank"><img src="https://i.ibb.co/zmhNgrt/13shots-so.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/DiazJsx/Abarrotes-Desing" target="_blank"><img src="https://i.ibb.co/qJNh9h5/791shots-so.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://www.figma.com/design/cWeIVOYG7kvFG7e7X7wfyc/Diaz%C2%B4s-Coffee?node-id=0-1&t=43cDIVLSnPXNGe3g-1" target="_blank">
 <img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
