@@ -73,11 +73,11 @@
 <td width="50%">
 <h3 align="center">instagram clone design</h3>
 <div align="center">                                       
-<a href="https://github.com/DiazJsx/Crud-Desing" target="_blank"><img src="https://i.ibb.co/HTLC7Py/242shots-so.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://www.figma.com/design/eveaUjiOb1LJBKWsaFiMwG/Clone-Instagram?node-id=0-1&t=N5vEEFUGK091TxsB-1" target="_blank"><img src="https://i.ibb.co/HTLC7Py/242shots-so.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/DiazJsx/Crud-Desing" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://www.figma.com/design/eveaUjiOb1LJBKWsaFiMwG/Clone-Instagram?node-id=0-1&t=N5vEEFUGK091TxsB-1" target="_blank">
+<img src="https://img.shields.io/badge/DISEÑO-ff9?style=for-the-badge&logo=figma&logoColor=black">
 </a>
 </p>
 </p>Mi CRUD, diseñado y desarrollado en Visual Studio para gestionar una base de datos de clientes, me permitió poner en práctica mis habilidades en el manejo de formularios y la validación de datos. Utilicé HTML para la estructura y CSS para crear un diseño atractivo.</p>
