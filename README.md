@@ -91,7 +91,7 @@
 <td width="50%">
 <h3 align="center">Login and Register</h3>
 <div align="center">
-<a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank"><img src="https://i.ibb.co/GHmvS41/619shots-so-removebg-preview.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank"><img src="https://i.ibb.co/R71gp1r/2shots-so.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
