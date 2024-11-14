@@ -127,7 +127,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Mi proyecto de Login y Register, inspirado en un tutorial y hecho con <strong> Visual Studio </strong> - que me permitió aprender a crear formularios dinámicos con HTML, CSS y JavaScript y pude personalizar un diseño utilizando la librería Bootstrap para obtener una apariencia moderna y responsiva.</p>
+<p>El generador de contraseñas que diseñé en Visual Studio se caracteriza por una interfaz limpia y moderna, creada con HTML y CSS, y una funcionalidad robusta en JavaScript. Este proyecto facilita a los usuarios generar contraseñas seguras, integrando opciones que priorizan la usabilidad y el atractivo visual</p>
 </div>
                                                                                       
 </td>       
