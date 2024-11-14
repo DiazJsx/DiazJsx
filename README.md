@@ -123,7 +123,7 @@
 <div align="center">
 <a href="https://github.com/DiazJsx/Password-generator.git" target="_blank"><img src="https://i.ibb.co/GQbGp9f/generator.png" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank">
+<a href="https://github.com/DiazJsx/Password-generator.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
