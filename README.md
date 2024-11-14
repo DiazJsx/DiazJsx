@@ -121,7 +121,7 @@
 <td width="50%">
 <h3 align="center">Password generator</h3>
 <div align="center">
-<a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank"><img src="https://i.ibb.co/GQbGp9f/generator.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/DiazJsx/Password-generator.git" target="_blank"><img src="https://i.ibb.co/GQbGp9f/generator.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
