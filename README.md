@@ -119,9 +119,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Login and Register</h3>
+<h3 align="center">Password generator</h3>
 <div align="center">
-<a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank"><img src="https://i.ibb.co/hH4fB5d/713-1x-shots-so.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank"><img src="https://i.ibb.co/Swmm07b/630shots-so-removebg-preview.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/DiazJsx/Inicio-Sesion" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
