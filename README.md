@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Hello, I'm <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
+<h1 align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJ5cjgzem9udXR0ZXFyN2w2eXZ0N25xeGU4bXVyazg1ZjdwZnRsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmMdxlVwsCmTtA4V6a/giphy.gif" width="100"/> Hello, I'm <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
 </div>
 
 ## About me
