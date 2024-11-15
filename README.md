@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> <h1 align="center"> Hello, I'm <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Hello, I'm <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
 </div>
 
 ## About me
