@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI4dGw2dWlqZnJoZjc0Ym5qajNiNDJ5NmhrdGVvejRndDMzY2M1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yyMAeYCoBpqbPQmeJZ/giphy.gif" width="100"/> Hello, I'm <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
-https://github.com/DiazJsx/DiazJsx/blob/main/banner%20diaz.png?raw=true
 </div>
-![Descripción de la imagen](https://github.com/DiazJsx/DiazJsx/blob/main/banner%20diaz.png?raw=true)
+
 ## About me
 
 - ⭐ Graduated from a software development degree
