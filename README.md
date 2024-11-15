@@ -1,6 +1,14 @@
 <div align="center">
-<h1 align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI4dGw2dWlqZnJoZjc0Ym5qajNiNDJ5NmhrdGVvejRndDMzY2M1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yyMAeYCoBpqbPQmeJZ/giphy.gif" width="100"/> Hello, I'm <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋</h1>
+  <h1 align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI4dGw2dWlqZnJoZjc0Ym5qajNiNDJ5NmhrdGVvejRndDMzY2M1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yyMAeYCoBpqbPQmeJZ/giphy.gif" width="100"/> 
+    Hello, I'm <a href="https://www.linkedin.com/in/díaz-d/">DiazJsx</a> 👋
+  </h1>
+  <!-- Imagen de banner con link -->
+  <a href="https://i.ibb.co/XJGzC6J/banner-diaz.png">
+    <img src="https://i.ibb.co/XJGzC6J/banner-diaz.png" alt="Banner Image" />
+  </a>
 </div>
+
 
 ## About me
 
