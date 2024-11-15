@@ -17,7 +17,7 @@
 - 💻 Front-end developer
 - 📲 UX/UI Design
 - 📫 How to contact me hansdiazxd@gmail.com
-- ⚡ Fun fact: I'm an introvert
+- ⚡ Fun fact: I will soon have my technical degree validated
 
 ## Connect with me:
 <p align="left">
