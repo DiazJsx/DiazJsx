@@ -12,12 +12,12 @@
 
 ## About me
 
-- ⭐ Graduated from a software development degree
-- 🌱 I'm currently learning React
-- 💻 Front-end developer
-- 📲 UX/UI Design
-- 📫 How to contact me hansdiazxd@gmail.com
-- ⚡ Fun fact: I will soon have my technical degree validated
+- ⭐ Software Development Graduate
+- 🌱 Currently studying
+- 💻 Data Analysis
+- 🐧 Databases
+- 📫 How to contact me: hansdiazxd@gmail.com
+- ⚡ Fun fact: I am currently validating my technical degree
 
 ## Connect with me:
 <p align="left">
